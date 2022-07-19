@@ -27,4 +27,9 @@ You can click the Preview link to take a look at your changes.
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   ![Snake animation](https://github.com/Alexsandro-Simas-Lopes/Alexsandro-Simas-Lopes/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  
+  
+ ![image](https://user-images.githubusercontent.com/105400359/179813532-6a68840a-2dc6-4529-90b5-25c9816f2bcc.png)
+ ![mona-loading-default](https://user-images.githubusercontent.com/105400359/179813859-3524f8eb-2c4e-4721-9d0b-20aaa07e40de.gif)
+</div>
+

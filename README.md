@@ -15,6 +15,9 @@ You can click the Preview link to take a look at your changes.
   <img sm="4" height="165em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Rafa-Python" height="50" width="40"
+  src="https://user-images.githubusercontent.com/105400359/179813859-3524f8eb-2c4e-4721-9d0b-20aaa07e40de.gif">
   <img align="center" alt="Rafa-Js" height="30" width="40"      
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40"  
@@ -25,11 +28,12 @@ You can click the Preview link to take a look at your changes.
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40"  
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="50" width="40" 
+  src="https://user-images.githubusercontent.com/105400359/179813859-3524f8eb-2c4e-4721-9d0b-20aaa07e40de.gif">
 
   ![Snake animation](https://github.com/Alexsandro-Simas-Lopes/Alexsandro-Simas-Lopes/blob/output/github-contribution-grid-snake.svg)
   
+  <!--  ![image](https://user-images.githubusercontent.com/105400359/179813532-6a68840a-2dc6-4529-90b5-25c9816f2bcc.png) "IMG-POLVO DO MAR" -->
   
- ![image](https://user-images.githubusercontent.com/105400359/179813532-6a68840a-2dc6-4529-90b5-25c9816f2bcc.png)
- ![mona-loading-default](https://user-images.githubusercontent.com/105400359/179813859-3524f8eb-2c4e-4721-9d0b-20aaa07e40de.gif)
 </div>
 

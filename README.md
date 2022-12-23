@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexsandro-Simas-Lopes. Currently, I work as an intern in the research and development sector at SEDUC/AM.
-- 👀 I’m interested in website back-and development, maybe i also work with front-end occasionally.
+- 👀 I’m interested in website front-end development, maybe i also work with back-and occasionally.
 - 🌱 I’m currently learning PHP and database.
 - 💞️ I’m looking to collaborate on christian website development social projects.
 - 📫 You can reach me by my email:alexsimaslopes@gmail.com, or by my whatsapp (92)98423-8641.
@@ -9,11 +9,19 @@ Alexsandro-Simas-Lopes/Alexsandro-Simas-Lopes is a ✨ special ✨ repository be
 You can click the Preview link to take a look at your changes.
 --->
 ## 🚀 Olá eu sou Alexsandro Simas Lopes, estou iniciando minha carreira na área de Desenvolvimento! 👨‍💻
-<div align="center">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+<div class="card">
   <a href="https://github.com/Alexsandro-Simas-Lopes">
-  <img sm="8" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img sm="4" height="165em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+    <div align="left">
+      <img sm="4" height="180rem"
+      src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    </div>
+    <div align="left">
+      <img sm="4" height="250rem" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=dracula">
+    </div>
+  </a>
+ </div>
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Rafa-Python" height="50" width="40"
@@ -36,4 +44,3 @@ You can click the Preview link to take a look at your changes.
   <!--  ![image](https://user-images.githubusercontent.com/105400359/179813532-6a68840a-2dc6-4529-90b5-25c9816f2bcc.png) "IMG-POLVO DO MAR" -->
   
 </div>
-

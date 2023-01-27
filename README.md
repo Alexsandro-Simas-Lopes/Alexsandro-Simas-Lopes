@@ -4,16 +4,9 @@
 - 💞️ I’m looking to collaborate on christian website development social projects.
 - 📫 You can reach me by my email:alexsimaslopes@gmail.com, or by my whatsapp (92)98423-8641.
 ## 🚀 Olá eu sou Alexsandro Simas Lopes, estou iniciando minha carreira na área de Desenvolvimento! 👨‍💻
-<body>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 <!-- <img align="center" alt="" width="auto"
-src="https://github.githubassets.com/images/modules/site/home/globe.jpg" style="
-  background: url('https://github.githubassets.com/images/modules/site/home/globe.jpg') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}"> -->
+src="https://github.githubassets.com/images/modules/site/home/globe.jpg" style="> -->
 <div class="card" style="z-index:1; float: left;">
   <a href="https://github.com/Alexsandro-Simas-Lopes">
     <div align="left">
@@ -46,5 +39,4 @@ src="https://github.githubassets.com/images/modules/site/home/globe.jpg" style="
   ![Snake animation](https://github.com/Alexsandro-Simas-Lopes/Alexsandro-Simas-Lopes/blob/output/github-contribution-grid-snake.svg)
   
   <!--  ![image](https://user-images.githubusercontent.com/105400359/179813532-6a68840a-2dc6-4529-90b5-25c9816f2bcc.png) "IMG-POLVO DO MAR" -->
-  
-</div></body>
+  </div>

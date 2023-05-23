@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Alexsandro-Simas-Lopes. Currently, I work as an intern in the research and development sector at SEDUC/AM.
-- 👀 I’m interested in website front-end development, maybe i also work with back-and occasionally.
-- 🌱 I’m currently learning PHP and database.
-- 💞️ I’m looking to collaborate on christian website development social projects.
-- 📫 You can reach me by my email:alexsimaslopes@gmail.com, or by my whatsapp (92)98423-8641.
+- 👋 Olá, sou @Alexsandro-Simas-Lopes. Atualmente trabalho como estagiário no setor de pesquisa e desenvolvimento da SEDUC/AM
+- 🌱 Trabalho com desenvolvimento front-end, mas tambem possuo um breve conhecimento de back-and
+- 💞️ Durante meu tempo de Estágio adquiri conhecimentos em HTML, CSS, Java e JavaScript. E continuo aprendendo a cada dia
+- 📫 Estou procurando colaborar em projetos sociais de desenvolvimento de sites cristãos.
+
+
 ## 🚀 Olá eu sou Alexsandro Simas Lopes, estou iniciando minha carreira na área de Desenvolvimento! 👨‍💻
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 <!-- <img align="center" alt="" width="auto"

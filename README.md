@@ -8,14 +8,14 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 <!-- <img align="center" alt="" width="auto"
 src="https://github.githubassets.com/images/modules/site/home/globe.jpg" style="> -->
-<div class="card" style="z-index:1; float: left;">
+<div class="row" style="z-index:1; float: left;">
   <a href="https://github.com/Alexsandro-Simas-Lopes">
     <div align="left">
-      <img sm="4" height="180rem"
+      <img class="col-sm-4" height="142rem"
       src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
     </div>
     <div align="left">
-      <img sm="4" height="250rem" 
+      <img class="col-sm-4" height="160rem" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=dracula">
     </div>
   </a>

@@ -39,10 +39,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=pie&theme=radical)](https://github.com/Alexsandro-Simas-Lopes/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&theme=radical)](https://github.com/Alexsandro-Simas-Lopes/github-readme-stats)
 
-<a href="" src="https://alexsimas.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexsandro-Simas-Lopes&repo=Alexsandro-Simas-Lopes&theme=radical" />
-</a>
 
+<a href="" align="center" src="https://alexsimas.netlify.app/" target="_blank" rel="noopener noreferrer">PORTIFOLIO</a>
+
+
+
+
+  
 <!-- IMAGEM DE PLANETA GIT -->
-<!-- <img align="center" alt="" width="auto"
+<!-- <img align="center" alt="" width="auto"  src="https://github-readme-stats.vercel.app/api/pin/?username=Alexsandro-Simas-Lopes&repo=Alexsandro-Simas-Lopes&theme=radical"
 src="https://github.githubassets.com/images/modules/site/home/globe.jpg" style="> -->

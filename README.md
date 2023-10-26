@@ -27,12 +27,14 @@
 <!-- SOBRE MIM! -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=<Hello+World!>;I+am+Alexsandro+Simas+Lopes.;I+Work+with+Front-End+Development;and+I+seek+improvement!)](https://git.io/typing-svg)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical&target=_blank)](https://alexsimas.netlify.app/)
+
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 
 <div>
   <a href="https://github.com/Alexsandro-Simas-Lopes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&show_icons=true&theme=tokyonight&include_all_commits=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&show_icons=true&theme=radical&include_all_commits=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=radical">
   </a>
  </div>
 <!-- IMAGEM DE PLANETA GIT -->

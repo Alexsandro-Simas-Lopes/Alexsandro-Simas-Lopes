@@ -1,10 +1,7 @@
 <!-- SOBRE MIM! -->
 <a href="https://github.com/Alexsandro-Simas-Lopes">
-    <img height="180em" text-align="center" src="https://readme-typing-svg.demolab.com/?lines=<Hello+World!>;I+am+Alexsandro+Simas+Lopes.;I+Work+with+Front-End+Development;and+I+seek+improvement!">
+    <img height="80em" text-align="center" src="https://readme-typing-svg.demolab.com/?lines=<Hello+World!>;I+am+Alexsandro+Simas+Lopes.;I+Work+with+Front-End+Development;and+I+seek+improvement!">
 </a>
-
-
-
 <div>
   <a href="https://github.com/Alexsandro-Simas-Lopes">
     <img height="235em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexsandro-Simas-Lopes&theme=radical">

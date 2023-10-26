@@ -1,7 +1,10 @@
 <!-- SOBRE MIM! -->
 <a href="https://github.com/Alexsandro-Simas-Lopes">
-    <img height="80em" text-align="center" src="https://readme-typing-svg.demolab.com/?lines=<Hello+World!>;I+am+Alexsandro+Simas+Lopes.;I+Work+with+Front-End+Development;and+I+seek+improvement!">
+    <img height="80em" href="robot.gif">
+    <img height="80em" align="center" src="https://readme-typing-svg.demolab.com/?lines=<Hello+World!>;I+am+Alexsandro+Simas+Lopes.;I+Work+with+Front-End+Development;and+I+seek+improvement!">
 </a>
+
+<!-- DASHBOARD'S -->
 <div>
   <a href="https://github.com/Alexsandro-Simas-Lopes">
     <img height="235em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexsandro-Simas-Lopes&theme=radical">
@@ -30,14 +33,6 @@
   <img align="center" alt="Rafa-Python" height="50" width="40" 
   src="https://user-images.githubusercontent.com/105400359/179813859-3524f8eb-2c4e-4721-9d0b-20aaa07e40de.gif"> 
 </div>
-<!-- <div target="_blank" rel="noopener noreferrer">
-  <a href="https://alexsimas.netlify.app/" align="center">PORTIFOLIO</a>
-</div> -->
-
-<div>
-  
-</div>
-
 
 <!-- 
 - 👋 Olá, sou @Alexsandro-Simas-Lopes. Atualmente trabalho como estagiário no setor de pesquisa e desenvolvimento da SEDUC/AM

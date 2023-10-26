@@ -30,10 +30,10 @@
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 
 <a href="https://github.com/Alexsandro-Simas-Lopes">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&rank_icon=github&show_icons=true&theme=radical&include_all_commits=true&CACHE_SECONDS" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&rank_icon=github&show_icons=true&theme=radical&include_all_commits=true&CACHE_SECONDS" />
 </a>
 <a href="https://github.com/Alexsandro-Simas-Lopes">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=radical&card_width=320" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=radical&card_width=320" />
 </a>
 <!-- <div>
   <a href="https://github.com/Alexsandro-Simas-Lopes">

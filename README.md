@@ -31,7 +31,7 @@
 
 <div>
   <a href="https://github.com/Alexsandro-Simas-Lopes">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&show_icons=true&theme=radical&include_all_commits=true">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&rank_icon=github&show_icons=true&theme=radical&include_all_commits=true&CACHE_SECONDS">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=radical">
   </a>
 </div>
@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=pie&theme=radical)](https://github.com/Alexsandro-Simas-Lopes/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&theme=radical)](https://github.com/Alexsandro-Simas-Lopes/github-readme-stats)
 
-<a href="https://alexsimas.netlify.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://alexsimas.netlify.app/" target="blank" rel="noopener noreferrer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alexsandro-Simas-Lopes&repo=Alexsandro-Simas-Lopes&theme=radical" />
 </a>
 

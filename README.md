@@ -31,8 +31,6 @@
 
 <a href="https://github.com/Alexsandro-Simas-Lopes">
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&rank_icon=github&show_icons=true&theme=radical&include_all_commits=true&CACHE_SECONDS" />
-</a>
-<a href="https://github.com/Alexsandro-Simas-Lopes">
   <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=radical&card_width=320" />
 </a>
 <!-- <div>

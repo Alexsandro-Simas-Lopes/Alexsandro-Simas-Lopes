@@ -1,6 +1,6 @@
 <!-- SOBRE MIM! -->
+<img height="100em" src="https://github.com/Alexsandro-Simas-Lopes/Alexsandro-Simas-Lopes/blob/main/robot.gif">
 <a href="https://github.com/Alexsandro-Simas-Lopes">
-    <img height="80em" href="robot.gif">
     <img height="80em" align="center" src="https://readme-typing-svg.demolab.com/?lines=<Hello+World!>;I+am+Alexsandro+Simas+Lopes.;I+Work+with+Front-End+Development;and+I+seek+improvement!">
 </a>
 

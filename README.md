@@ -35,23 +35,19 @@
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&rank_icon=github&show_icons=true&theme=radical&include_all_commits=true&CACHE_SECONDS">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=radical">
   </a>
+  <a href="https://github.com/Alexsandro-Simas-Lopes">
+    <img height="175em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexsandro-Simas-Lopes&theme=radical&utcOffset=utcOffset">
+    <img height="175em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexsandro-Simas-Lopes&theme=radical&exclude=javascript,html,css">
+    <img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&theme=radical">
+  </a>
 </div>
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=pie&theme=radical)](https://github.com/Alexsandro-Simas-Lopes/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&theme=radical)](https://github.com/Alexsandro-Simas-Lopes/github-readme-stats)
 
 <!-- <div target="_blank" rel="noopener noreferrer">
   <a href="https://alexsimas.netlify.app/" align="center">PORTIFOLIO</a>
 </div> -->
 
 <div>
-  <a href="https://github.com/Alexsandro-Simas-Lopes">
-    
-  </a>
-  <a href="https://github.com/Alexsandro-Simas-Lopes">
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexsandro-Simas-Lopes&theme=radical&utcOffset=utcOffset">
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexsandro-Simas-Lopes&theme=radical&exclude=java">
-  </a>
+  
 </div>
 
 

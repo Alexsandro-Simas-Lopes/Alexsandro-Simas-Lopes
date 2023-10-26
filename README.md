@@ -39,9 +39,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=pie&theme=radical)](https://github.com/Alexsandro-Simas-Lopes/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&theme=radical)](https://github.com/Alexsandro-Simas-Lopes/github-readme-stats)
 
-<button target="_blank" rel="noopener noreferrer">
+<div target="_blank" rel="noopener noreferrer">
   <a href="https://alexsimas.netlify.app/" align="center">PORTIFOLIO</a>
-</button>
+</div>
 
 
 

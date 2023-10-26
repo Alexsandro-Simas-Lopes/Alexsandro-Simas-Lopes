@@ -40,7 +40,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&theme=radical)](https://github.com/Alexsandro-Simas-Lopes/github-readme-stats)
 
 
-<a href="https://alexsimas.netlify.app/" align="center" src="" target="_blank" rel="noopener noreferrer">PORTIFOLIO</a>
+<a href="https://alexsimas.netlify.app/" align="center" target="_blank" rel="noopener noreferrer">PORTIFOLIO</a>
 
 
 

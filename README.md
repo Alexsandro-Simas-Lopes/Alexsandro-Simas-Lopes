@@ -36,6 +36,7 @@
 </div>
 
 
+
 <!-- 
 - 👋 Olá, sou @Alexsandro-Simas-Lopes. Atualmente trabalho como estagiário no setor de pesquisa e desenvolvimento da SEDUC/AM
 - 🌱 Trabalho com desenvolvimento front-end, mas tambem possuo um breve conhecimento de back-and

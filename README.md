@@ -1,14 +1,15 @@
 <!-- SOBRE MIM! -->
-<img height="100em" src="https://github.com/Alexsandro-Simas-Lopes/Alexsandro-Simas-Lopes/blob/main/robot.gif">
-<a href="https://github.com/Alexsandro-Simas-Lopes">
-    <img height="80em" align="center" src="https://readme-typing-svg.demolab.com/?lines=<Hello+World!>;I+am+Alexsandro+Simas+Lopes.;I+Work+with+Front-End+Development;and+I+seek+improvement!">
-</a>
-
+<div>
+    <img height="80em" align="center" src="https://github.com/Alexsandro-Simas-Lopes/Alexsandro-Simas-Lopes/blob/main/robot.gif">
+    <a href="https://github.com/Alexsandro-Simas-Lopes">
+        <img height="80em" align="center" src="https://readme-typing-svg.demolab.com/?lines=<Hello+World!>;I+am+Alexsandro+Simas+Lopes.;I+Work+with+Front-End+Development;and+I+seek+improvement!">
+    </a>
+</div>
 <!-- DASHBOARD'S -->
 <div>
   <a href="https://github.com/Alexsandro-Simas-Lopes">
     <img height="235em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexsandro-Simas-Lopes&theme=radical">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&rank_icon=github&show_icons=true&theme=radical&include_all_commits=true&CACHE_SECONDS">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&rank_icon=github&show_icons=true&theme=radical">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=radical">
     <img height="175em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexsandro-Simas-Lopes&theme=radical&utcOffset=utcOffset">
     <img height="175em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alexsandro-Simas-Lopes&theme=radical">

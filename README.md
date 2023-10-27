@@ -35,7 +35,7 @@
   src="https://user-images.githubusercontent.com/105400359/179813859-3524f8eb-2c4e-4721-9d0b-20aaa07e40de.gif"> 
 </div>
 
-
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <!-- 
 - 👋 Olá, sou @Alexsandro-Simas-Lopes. Atualmente trabalho como estagiário no setor de pesquisa e desenvolvimento da SEDUC/AM

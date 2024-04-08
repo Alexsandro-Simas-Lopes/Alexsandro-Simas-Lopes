@@ -17,7 +17,7 @@
   </a>
 </div>
 
-<!-- SKILL'S -->
+<!-- SKILL'S 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="50" width="40"
   src="https://user-images.githubusercontent.com/105400359/179813859-3524f8eb-2c4e-4721-9d0b-20aaa07e40de.gif">
@@ -27,13 +27,9 @@
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-PHP" height="40" width="50" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40"  
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="50" width="40" 
   src="https://user-images.githubusercontent.com/105400359/179813859-3524f8eb-2c4e-4721-9d0b-20aaa07e40de.gif"> 
-</div>
+</div>-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexsandro-Simas-Lopes/Alexsandro-Simas-Lopes/output/github-contribution-grid-snake-dark.svg">

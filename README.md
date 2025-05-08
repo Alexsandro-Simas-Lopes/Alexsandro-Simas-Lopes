@@ -9,8 +9,8 @@
 <div>
   <a href="https://github.com/Alexsandro-Simas-Lopes">
     <img height="235em" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexsandro-Simas-Lopes&theme=radical">
-    <img height="235em" align="center" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&rank_icon=github&show_icons=true&theme=radical">
-    <img height="235em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=radical">
+    <img height="195em" align="center" src="https://github-readme-stats.vercel.app/api?username=Alexsandro-Simas-Lopes&rank_icon=github&show_icons=true&theme=radical">
+    <img height="195em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexsandro-Simas-Lopes&layout=compact&langs_count=7&theme=radical">
   </a>
 </div>
 
